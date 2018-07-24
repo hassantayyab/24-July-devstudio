@@ -1,0 +1,92 @@
+.myDiv-sm {
+  display: block;
+  margin: 2% auto 4% auto;
+  padding: 2% 2% 2% 2%;
+  max-width: 20%;
+  border: 2px solid #f8f8f8;
+  background-color: #f8f8f8;
+  box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.12),
+  0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#list {
+  list-style-type: none;
+}
+
+.btn:active {
+  margin-top: 5%;
+  width: 15%;
+  border-radius: 0px;
+  background-color: #01a009;
+  border-color: #01a009;
+  box-shadow: 2px 8px 12px 2px rgba(0, 0, 0, 0.2), 0 6px 20px 4px rgba(0, 0, 0, 0.19);
+}
+
+.btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  width: 15%;
+  border-radius: 0px;
+  background-color: #01a009;
+  border-color: #01a009;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.btn:hover {
+  margin-top: 5%;
+  width: 15%;
+  border-radius: 0px;
+  background-color: #01a009;
+  border-color: #01a009;
+  box-shadow: 2px 8px 12px 2px rgba(0, 0, 0, 0.2),
+  0 6px 20px 4px rgba(0, 0, 0, 0.19);
+}
+
+#tabs {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  border-radius: 0px;
+}
+
+#popup {
+	margin: 3% 3% 3% 3%;
+}
+
+#popup-comment {
+  margin-top: 5%;
+	text-align: center;
+	color: #287A8B;
+	text-shadow: 0.5px 0.5px 1px #1a1a1a;
+
+}
+
+#submit-text {
+	font-size: 20px;
+	width: 70%;
+	padding: 6px 6px 6px 6px;
+	margin: 1px 10px 12px 21.5px;
+}
+
+#submit {
+  background-color: #287A8B; /* Green */
+  border: 2px solid #287A8B;
+  color: white;
+  margin-top: 2%;
+  margin-left: auto;
+	margin-right: auto;  
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: block;
+  font-size: 16px;  
+	box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24),0 10px 25px 0 rgba(0,0,0,0.19);
+}
+
+#submit:hover {
+	background-color: rgb(25, 76, 87);
+	border: 2px solid rgb(25, 76, 87);
+}
